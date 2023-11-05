@@ -20,16 +20,3 @@ A light color palette that supports WCAG 2.1 AA as well as support a wide range 
 |![[Asset 23@32x-8.png]]   	|Crimson Tundra|`#99372C`         	|         	|         	|
 |![[Asset 22@32x-8.png]]   	|Sea Breeze|`#6FA4AD`         	|         	|         	|
 |![[Asset 28@32x-8.png]]   	|Umber Home| `#cd8120`        	|         	|         	|
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
