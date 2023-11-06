@@ -1,4 +1,4 @@
-# Antartic Theme
+# Antarctic Theme
 A light color palette that supports WCAG 2.1 AA as well as support a wide range of apps.
 
 ## Base Colors
