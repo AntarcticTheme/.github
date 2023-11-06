@@ -4,7 +4,7 @@ A light color palette that supports WCAG 2.1 AA as well as support a wide range 
 ## Base Colors
 | **Name** 	                | **Hex** 	| **RGB** 	        | **HSL** 	                | 🎨|
 |:---------:	            |:-------:	|:-------:	        |:-------:	                |:-------:|
-|Frost Ice                  |`#F3FBFF`  |`rgb(243,251,255)` |`hsl(200,100%,97.6%)`      |![Frost Ice](images/Asset%46.png) |   
+|Frost Ice                  |`#F3FBFF`  |`rgb(243,251,255)` |`hsl(200,100%,97.6%)`      |![Frost Ice](images/1.png) |   
 |Pure Ice (base)            |`#EDF3F7`  |`rgb(237,243,247)` |`hsl(204,38.5%,94.9%)`     |![Pure Ice](images/Asset%47.png) |
 |Calm Ice                   |`#E1EAEF`  |`rgb(225,234,239)` |`hsl(201.4,30.4%,91%)`     |![Calm Ice](images/Asset%48.png)|
 |Rough Ice                  |`#D3DEE2`  |`rgb(211,222,226)` |`hsl(196,20.5%,85.7%)`     |![Rough Ice](images/Asset%49.png)|
