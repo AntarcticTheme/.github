@@ -1,5 +1,13 @@
 # Antarctic Theme
+
+The clean, snowy surroundings of the South Pole inspire this chilly color scheme called Antarctic. The combination of white, blue, and accent tones evokes the serenity of the South Pole on your screen. Any computer would benefit from the color scheme's ability to create a serene and revitalizing ambiance and even drop your CPU temps. It can be applied not only to software but any design to give it a sophisticated, elegant look or a modern, minimalist feel.
+
 A light color palette that supports WCAG 2.1 AA as well as support a wide range of apps.
+
+<p align="center">
+  <a href="https://www.w3.org/TR/WCAG21/#contrast-minimum">
+    <img src="https://img.shields.io/badge/WCAG_2.1-AA-344C59?style=flat-square&labelColor=D3DEE2&color=344C59&link=https%3A%2F%2Fwww.w3.org%2FTR%2FWCAG21%2F" alt="W3C"></a>
+</p>
 
 ## Base Colors
 | **Name** 	                | **Hex** 	| **RGB** 	        | **HSL** 	                | 🎨|
