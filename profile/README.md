@@ -5,7 +5,7 @@
 
 <h6 align="center">
   <a hrfe="https://github.com/AntarcticTheme#base-colors">Color Palette</a>
-  <a hrfe="https://github.com/orgs/AntarcticTheme/projects/3/views/2">RoadMap</a>
+  <a hrfe="https://github.com/orgs/AntarcticTheme/projects/3/views/2"> - RoadMap - </a>
   <a hrfe="https://github.com/AntarcticTheme#ports">Ports</a>
 </h6>
 
