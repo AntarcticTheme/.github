@@ -1,8 +1,13 @@
-<h3>
-  <img src="https://github.com/AntarcticTheme/.github/blob/main/images/logo.png" width="100" alt="Logo"/><br/>
+<h3 align="center">
+  <img src="https://github.com/AntarcticTheme/.github/blob/main/images/logo.png" width="200" alt="Logo"/><br/>
+  Antarctic Theme
 </h3>
 
-# Antarctic Theme
+<h6 align="center">
+  <a hrfe="https://github.com/AntarcticTheme#base-colors">Color Palette</a>
+  <a hrfe="https://github.com/orgs/AntarcticTheme/projects/3/views/2">RoadMap</a>
+  <a hrfe="https://github.com/AntarcticTheme#ports">Ports</a>
+</h6>
 
 The clean, snowy surroundings of the South Pole inspire this chilly color scheme called Antarctic. The combination of white, blue, and accent tones evokes the serenity of the South Pole on your screen. Any computer would benefit from the color scheme's ability to create a serene and revitalizing ambiance and even drop your CPU temps. It can be applied not only to software but any design to give it a sophisticated, elegant look or a modern, minimalist feel.
 
@@ -10,10 +15,6 @@ The clean, snowy surroundings of the South Pole inspire this chilly color scheme
   <a href="https://github.com/AntarcticTheme/.github/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/MIT-EDF3F7?style=flat-square&label=License&labelColor=344C59&link=https%3A%2F%2Fgithub.com%2FAntarcticTheme%2F.github%2Fblob%2Fmain%2FLICENSE" alt="MIT"></a>
 </p>
-
-## Roadmap
-
-https://github.com/orgs/AntarcticTheme/projects/3/views/2
 
 ## Base Colors
 | **Name** 	                | **Hex** 	| **RGB** 	        | **HSL** 	                | 🎨|
@@ -35,3 +36,5 @@ https://github.com/orgs/AntarcticTheme/projects/3/views/2
 |Sea Breeze                 |`#6FA4AD`  |`rgb(111,164,173)` |`hsl(188.7,27.4%,55.7%)`   |![Sea Breeze](images/15.png)|
 |Umber Home                 |`#CD8120`  |`rgb(205,129,32)`  |`hsl(33.6,73%,46.5%)`      |![Umber Home](images/16.png)|
 |Shinny Umber Home          |`#E2741A`  |`rgb(226,116,26)`  |`hsl(27,79.4%,49.4%)`      |![Shinny Umber Home](images/17.png)|
+
+## Ports
