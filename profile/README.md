@@ -4,7 +4,7 @@
 </h3>
 
 <h6 align="center">
-  <a hrfe="https://github.com/AntarcticTheme#base-colors">Color Palette</a>
+  <a hrfe="https://github.com/AntarcticTheme#base-colors">Palette</a>
   <a hrfe="https://github.com/orgs/AntarcticTheme/projects/3/views/2"> - RoadMap - </a>
   <a hrfe="https://github.com/AntarcticTheme#ports">Ports</a>
 </h6>
@@ -16,7 +16,7 @@ The clean, snowy surroundings of the South Pole inspire this chilly color scheme
     <img src="https://img.shields.io/badge/MIT-EDF3F7?style=flat-square&label=License&labelColor=344C59&link=https%3A%2F%2Fgithub.com%2FAntarcticTheme%2F.github%2Fblob%2Fmain%2FLICENSE" alt="MIT"></a>
 </p>
 
-## Base Colors
+## Palette
 | **Name** 	                | **Hex** 	| **RGB** 	        | **HSL** 	                | 🎨|
 |:---------:	            |:-------:	|:-------:	        |:-------:	                |:-------:|
 |Frost Ice                  |`#F3FBFF`  |`rgb(243,251,255)` |`hsl(200,100%,97.6%)`      |![Frost Ice](images/1.png) |   
@@ -38,3 +38,5 @@ The clean, snowy surroundings of the South Pole inspire this chilly color scheme
 |Shinny Umber Home          |`#E2741A`  |`rgb(226,116,26)`  |`hsl(27,79.4%,49.4%)`      |![Shinny Umber Home](images/17.png)|
 
 ## Ports
+[Windows Terminal](https://github.com/AntarcticTheme/Windows-Terminal)
+[Oh My Posh](https://github.com/AntarcticTheme/Oh-My-Posh)
