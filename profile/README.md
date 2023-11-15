@@ -3,12 +3,6 @@
   Antarctic Theme
 </h3>
 
-<h6 align="center">
-  <a hrfe="https://github.com/AntarcticTheme#base-colors">Palette</a>
-  <a hrfe="https://github.com/AntarcticTheme#roadmap"> - RoadMap - </a>
-  <a hrfe="https://github.com/AntarcticTheme#ports">Ports</a>
-</h6>
-
 The clean, snowy surroundings of the South Pole inspire this chilly color scheme called Antarctic. The combination of white, blue, and accent tones evokes the serenity of the South Pole on your screen. Any computer would benefit from the color scheme's ability to create a serene and revitalizing ambiance and even drop your CPU temps. It can be applied not only to software but any design to give it a sophisticated, elegant look or a modern, minimalist feel.
 
 <p align="center">
