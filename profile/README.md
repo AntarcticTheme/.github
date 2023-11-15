@@ -5,7 +5,7 @@
 
 <h6 align="center">
   <a hrfe="https://github.com/AntarcticTheme#base-colors">Palette</a>
-  <a hrfe="https://github.com/orgs/AntarcticTheme/projects/3/views/2"> - RoadMap - </a>
+  <a hrfe="https://github.com/AntarcticTheme#roadmap"> - RoadMap - </a>
   <a hrfe="https://github.com/AntarcticTheme#ports">Ports</a>
 </h6>
 
@@ -15,6 +15,9 @@ The clean, snowy surroundings of the South Pole inspire this chilly color scheme
   <a href="https://github.com/AntarcticTheme/.github/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/MIT-EDF3F7?style=flat-square&label=License&labelColor=344C59&link=https%3A%2F%2Fgithub.com%2FAntarcticTheme%2F.github%2Fblob%2Fmain%2FLICENSE" alt="MIT"></a>
 </p>
+
+## Roadmap
+Here you can check our [Roadmap](https://github.com/orgs/AntarcticTheme/projects/3)
 
 ## Palette
 | **Name** 	                | **Hex** 	| **RGB** 	        | **HSL** 	                | 🎨|
@@ -39,4 +42,5 @@ The clean, snowy surroundings of the South Pole inspire this chilly color scheme
 
 ## Ports
 [Windows Terminal](https://github.com/AntarcticTheme/Windows-Terminal)
+
 [Oh My Posh](https://github.com/AntarcticTheme/Oh-My-Posh)
