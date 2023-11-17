@@ -42,14 +42,14 @@ Here you can check our [Roadmap](https://github.com/orgs/AntarcticTheme/projects
 ## Thanks
 Thank you for checking it out. Right now, it is just me working on Antarctic; I hope this project can grow and attract more attention; not everybody is a fan of dark mode, and this is for those who want a light mode with contrast and cool colors.
 
+You can find me @
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dariosimpson/">
     <img src="https://img.shields.io/badge/In-EDF3F7?style=flat-square&label=Linked&labelColor=344C59&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdariosimpson%2F" alt="LinkedIn"></a>
   <a href="https://twitter.com/dariusbarbus22">
     <img src="https://img.shields.io/badge/X-EDF3F7?style=flat-square&label=Twitter&labelColor=344C59&link=https%3A%2F%2Ftwitter.com%2Fdariusbarbus22" alt="LinkedIn"></a>
 </p>
-
-You can find me @ [Twitter](https://twitter.com/dariusbarbus22), [LinkedIn](https://www.linkedin.com/in/dariosimpson/).
 
 <h3 align="center">
   <img src="https://github.com/AntarcticTheme/.github/blob/main/images/footer.png" alt="Footer"/><br/>
