@@ -10,13 +10,11 @@ The clean, snowy surroundings of the South Pole inspire this chilly color scheme
     <img src="https://img.shields.io/badge/MIT-EDF3F7?style=flat-square&label=License&labelColor=344C59&link=https%3A%2F%2Fgithub.com%2FAntarcticTheme%2F.github%2Fblob%2Fmain%2FLICENSE" alt="MIT"></a>
 </p>
 
-## Roadmap
-Here you can check our [Roadmap](https://github.com/orgs/AntarcticTheme/projects/3)
 
 ## Palette
 | **Name** 	                | **Hex** 	| **RGB** 	        | **HSL** 	                | 🎨|
 |:---------:	            |:-------:	|:-------:	        |:-------:	                |:-------:|
-|Frost Ice                  |`#F3FBFF`  |`rgb(243,251,255)` |`hsl(200,100%,97.6%)`      |![Frost Ice](images/1.png) |   
+|Frost Ice                  |`#F3FBFF`  |`rgb(243,251,255)` |`hsl(200,100%,97.6%)`      |![Frost Ice](../images/1.png) |   
 |Pure Ice (base)            |`#EDF3F7`  |`rgb(237,243,247)` |`hsl(204,38.5%,94.9%)`     |![Pure Ice](images/2.png) |
 |Calm Ice                   |`#E1EAEF`  |`rgb(225,234,239)` |`hsl(201.4,30.4%,91%)`     |![Calm Ice](images/3.png)|
 |Rough Ice                  |`#D3DEE2`  |`rgb(211,222,226)` |`hsl(196,20.5%,85.7%)`     |![Rough Ice](images/4.png)|
@@ -35,9 +33,14 @@ Here you can check our [Roadmap](https://github.com/orgs/AntarcticTheme/projects
 |Shinny Umber Home          |`#E2741A`  |`rgb(226,116,26)`  |`hsl(27,79.4%,49.4%)`      |![Shinny Umber Home](images/17.png)|
 
 ## Ports
+[Visual Studio Code](https://github.com/AntarcticTheme/VS-Code)
+
+[Visual Studio](https://github.com/AntarcticTheme/visual-studio)
+
 [Windows Terminal](https://github.com/AntarcticTheme/Windows-Terminal)
 
 [Oh My Posh](https://github.com/AntarcticTheme/Oh-My-Posh)
+
 
 ## Thanks
 Thank you for checking it out. Right now, it is just me working on Antarctic; I hope this project can grow and attract more attention; not everybody is a fan of dark mode, and this is for those who want a light mode with contrast and cool colors.
@@ -50,6 +53,9 @@ You can find me @
   <a href="https://twitter.com/dariusbarbus22">
     <img src="https://img.shields.io/badge/X-EDF3F7?style=flat-square&label=Twitter&labelColor=344C59&link=https%3A%2F%2Ftwitter.com%2Fdariusbarbus22" alt="LinkedIn"></a>
 </p>
+
+
+
 
 <h3 align="center">
   <img src="https://github.com/AntarcticTheme/.github/blob/main/images/footer.png" alt="Footer"/><br/>
