@@ -35,8 +35,6 @@ The clean, snowy surroundings of the South Pole inspire this chilly color scheme
 ## Ports
 [Visual Studio Code](https://github.com/AntarcticTheme/VS-Code)
 
-[Visual Studio](https://github.com/AntarcticTheme/visual-studio)
-
 [Windows Terminal](https://github.com/AntarcticTheme/Windows-Terminal)
 
 [Oh My Posh](https://github.com/AntarcticTheme/Oh-My-Posh)
